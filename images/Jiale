@@ -1,0 +1,40 @@
+index.html
+<i class="fab fa-github"></i><a href="https://desktop.github.com/">GitHub</a>
+<h1>
+GitHub Desktop
+</h1>
+<body>
+   <p>Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, <strong>GitHub Desktop</strong> simplifies your development workflow.</p>
+   <p>Download for macOS or Windows (msi)</p>
+   <p>By downloading, you agree to the Open Source Applications Terms.</p>
+  
+  <style>
+  	.linkedin-icon{
+  		color: #aaaaaa;
+  		font-size: 30px;
+  	}
+  	.linkedin-icon:hover {
+  		color: #333333;
+  		font-size: 40px;
+  	}
+  	 </style>
+
+  <a class = "linkedin-icon" href="https://www.linkedin.com/company/github/">
+ 	<i class="fab fa-linkedin"></i>
+  </a>
+  
+  <a href="https://www.facebook.com/GitHub/"><i class="fab fa-facebook-square"></i>
+  </a>
+
+</body>
+<script src="https://kit.fontawesome.com/658cb589b8.js" crossorigin="anonymous">dddjjdhahhaghahah</script>
+<style>
+.myDiv {
+  border: 5px outset lightblue;
+  background-color: lightgray;
+  text-align: left;
+}
+</style>
+<div class="myDiv">
+	<h3>Attribute commits with collaborators easily</h3>
+	<p>Quickly add co-authors to your commit. Great for pairing and excellent for sending a little love/credit to that special someone who helped fix that gnarly bug of yours. See the attribution on the history page, undo an accidental attribution, and <a href="https://github.blog/2018-01-29-commit-together-with-co-authors/">see the co-authors</a> on github.com</p>
